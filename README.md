@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Murcka and I'm a web and video-game programer, from Russian Moskow</p>
+<p align="left">My name is Murcka and I'm a web and video-game programer, from Russia</p>
 
 ###
 
