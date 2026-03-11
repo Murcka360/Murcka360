@@ -1,18 +1,6 @@
 <h1 align="left">Who is it we have here 👋</h1>
 
 ###
-
-<p align="left">My name is Murcka and I'm a web and video-game programer, from Russia</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖<br>Sona Buvelle is my waifu 💖</p>
-
-###
 <h2 align="left">My code skills</h2>
 
 ###
